@@ -20,4 +20,3 @@ List of common communication instances:
  - provide decision
  - create image/ perception
  - obtain information
- - 
