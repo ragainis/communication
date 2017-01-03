@@ -13,6 +13,7 @@ List of common communication instances:
   - two person
   - small group
   - large group
+
 Purpose of the communication:
 - inform and/or educate
 - ask for decision
